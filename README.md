@@ -1,3 +1,4 @@
+## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothyckrause/)
 [![Email](https://img.shields.io/badge/Email-CA4245?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timkrausedev@gmail.com)
 
