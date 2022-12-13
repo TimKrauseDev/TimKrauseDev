@@ -1,6 +1,7 @@
 ## Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothyckrause/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6DA55F?style=for-the-badge)](https://timkrause.dev/)
 [![Email](https://img.shields.io/badge/Email-CA4245?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timkrausedev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothyckrause/)
 
 ## Technology
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
